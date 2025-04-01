@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+
+body{
+    color: lightgray;
+}
+
+
+p{
+  size: 20px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    border: 2px black;
+}
+
+.resaltar{
+    color: green;
+}
+
+p{
+    background-color: lightblue;
+}
+
+div{
+    margin: 15px;
+}
+
